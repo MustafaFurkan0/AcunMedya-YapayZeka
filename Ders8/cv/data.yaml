@@ -1,0 +1,7 @@
+path: C:\Users\user\Desktop\AcunMedya-YapayZeka\Ders8\cv\dataset
+train: images
+val: images
+
+nc: 1
+names:
+    0: plaka
